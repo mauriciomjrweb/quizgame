@@ -1,1 +1,3 @@
 # quizgame
+
+Projeto em desenvolvimento.
